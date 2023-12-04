@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293229099388",
+    "project_id": "projdaltonismo",
+    "storage_bucket": "projdaltonismo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293229099388:android:215378efdcfd22fc7d8cf9",
+        "android_client_info": {
+          "package_name": "com.example.proj_daltonismo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCruAND9dYUR0Wf4pQ-_wHRHy0cHbrYOMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

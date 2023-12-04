@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.proj_daltonismo">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Daltonismo"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Splash"
+        tools:targetApi="31">
+        <activity
+            android:name=".Tela_Resultado"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_QuestaoQuatro"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_QuestaoTres"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_QuestaoDois"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_QuestaoUm"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_TesteDaltonismo"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_User"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".Tela_TiposDaltonismo"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Sobre"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Cadastro"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Login"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tela_Inicial"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

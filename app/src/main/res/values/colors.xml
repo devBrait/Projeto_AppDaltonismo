@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="azul">#003FC4</color>
+    <color name="verde">#006300</color>
+    <color name="vermelho">#ff0000</color>
+    <color name="rosa">#E98CDE</color>
+    // Paleta de Cores
+    <color name="black">#FF000000</color>
+    <color name="cinza_escuro">#6a6a6a</color>
+    <color name="cinza_meio">#575757</color>
+    <color name="cinza">#6b6b6b</color>
+    <color name="cinza_claro">#808080</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

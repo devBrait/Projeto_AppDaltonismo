@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/color"
+        android:title="Color"
+        android:icon="@drawable/ic_color"/>
+
+    <item
+        android:id="@+id/fab"
+        android:title=""
+        android:enabled= "false"/>
+
+    <item
+        android:id="@+id/family"
+        android:title="Family"
+        android:icon="@drawable/ic_family"/>
+
+    <item
+        android:id="@+id/help"
+        android:title="Ajuda"
+        android:icon="@drawable/ic_help"/>
+
+</menu>
