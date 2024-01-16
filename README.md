@@ -18,3 +18,19 @@ A paleta de cores foi selecionada sabendo que qualquer daltônico sempre consegu
 - Preto
 - Branco
 - Cinza
+# Tela de home do App:
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/devBrait/Projeto_AppDaltonismo/assets/121905548/b5ae1679-a788-46da-9cf1-e6f12366ccd9" alt="image" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
